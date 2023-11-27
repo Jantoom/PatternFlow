@@ -1,6 +1,6 @@
 # Image Segmentation of the ISIC dataset using Improved UNet
 
-by Jaleel Abdur-Raheem, 45805448
+by Jaleel Abdur-Raheem
 
 ## Introduction
 
